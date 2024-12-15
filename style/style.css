@@ -210,6 +210,14 @@ body {
   gap: 5vw;
 }
 
+.works__item {
+  width: auto;
+  font-size: 15px;
+}
+
+.works__projects {
+  font-size: 12px;
+}
 
 .processing-block__header {
   font-size: 24px; 
